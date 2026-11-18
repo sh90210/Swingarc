@@ -1,0 +1,6 @@
+{
+  "name": "SwingArc",
+  "description": "Real-time golf club swing tracer using the camera for live motion tracking, swing-plane analysis, tempo measurement, and coaching feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

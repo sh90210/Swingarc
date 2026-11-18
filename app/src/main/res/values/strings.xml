@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SwingArc</string>
+    <string name="nav_tracer">Tracer</string>
+    <string name="nav_upload">Upload</string>
+    <string name="nav_sessions">Sessions</string>
+    <string name="camera_permission_title">Camera Access for Swing Tracking</string>
+    <string name="camera_permission_subtitle">SwingArc analyzes live camera frames on-device to trace your clubhead arc, measure swing tempo, and highlight plane shifts in real time.</string>
+    <string name="camera_permission_grant">Enable Camera</string>
+    <string name="camera_permission_settings">Open App Settings</string>
+    <string name="setup_tip_1">Place phone waist-high 8–10 ft away (down-the-line or face-on)</string>
+    <string name="setup_tip_2">Ensure steady framing against a clear background</string>
+    <string name="setup_tip_3">Use Auto-Trace or Hands-Free Loop for countdown, capture &amp; replay</string>
+</resources>
